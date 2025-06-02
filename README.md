@@ -78,7 +78,7 @@ O sistema é composto por três componentes principais:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/saea.git
+git clone https://github.com/gustavozanettemartins/SAEA.git
 cd saea
 ```
 
