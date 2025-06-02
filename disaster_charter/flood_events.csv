@@ -1,0 +1,2 @@
+date,location,rio_principal,duration_days,severity,max_water_level_m,affected_population,emergency_declared,source
+2023-02-15,Caxias_do_Sul,Rio_das_Antas,374,high,49.01,45707,True,INMET_RS_Analysis

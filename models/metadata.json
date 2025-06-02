@@ -1,0 +1,104 @@
+{
+  "data_treinamento": "2025-06-02T13:47:26.657966",
+  "melhor_modelo": "RandomForest",
+  "threshold_otimizado": 0.5,
+  "features": [
+    "precipitation_mm",
+    "temperature_c",
+    "humidity_pct",
+    "pressure_hpa",
+    "wind_speed_kmh",
+    "soil_moisture_pct",
+    "nivel_metros",
+    "taxa_subida_m_h",
+    "hora",
+    "dia_semana",
+    "mes",
+    "hora_sin",
+    "hora_cos",
+    "mes_sin",
+    "mes_cos",
+    "precipitation_mm_ma_12h",
+    "nivel_metros_ma_12h",
+    "precipitation_mm_ma_24h",
+    "nivel_metros_ma_24h",
+    "precipitation_mm_std_12h",
+    "nivel_metros_std_12h",
+    "precipitation_mm_diff",
+    "nivel_metros_diff",
+    "aceleracao_nivel",
+    "pressao_normalizada"
+  ],
+  "n_features": 25,
+  "distribuicao_classes": {
+    "0": 68708,
+    "1": 6954
+  },
+  "amostras_treino": 109916,
+  "amostras_teste": 15133,
+  "estrategia_balanceamento": "smote_tomek",
+  "metricas_finais": {
+    "accuracy": 0.926187801493425,
+    "precision": 0.5557363710333605,
+    "recall": 0.9820273184759166,
+    "f1_score": 0.7097947518836061,
+    "custom_score": 0.7996935209246877
+  },
+  "todos_resultados": {
+    "RandomForest": {
+      "accuracy": 0.926187801493425,
+      "precision": 0.5557363710333605,
+      "recall": 0.9820273184759166,
+      "f1_score": 0.7097947518836061,
+      "custom_score": 0.7996935209246877
+    },
+    "ExtraTrees": {
+      "accuracy": 0.9027291350029736,
+      "precision": 0.4857844857844858,
+      "recall": 0.9949676491732566,
+      "f1_score": 0.6528301886792452,
+      "custom_score": 0.7737852080578231
+    },
+    "GradientBoosting": {
+      "accuracy": 0.9475318839622018,
+      "precision": 0.6646442360728075,
+      "recall": 0.8662832494608196,
+      "f1_score": 0.7521847690387016,
+      "custom_score": 0.7829718493599924
+    },
+    "LogisticRegression": {
+      "accuracy": 0.8692922751602459,
+      "precision": 0.4110336465595635,
+      "recall": 0.9748382458662832,
+      "f1_score": 0.5782515991471215,
+      "custom_score": 0.726379536730435
+    },
+    "DecisionTree": {
+      "accuracy": 0.9057688495341307,
+      "precision": 0.4933282500953107,
+      "recall": 0.9302659956865564,
+      "f1_score": 0.6447433981066268,
+      "custom_score": 0.7420801524931968
+    },
+    "XGBoost": {
+      "accuracy": 0.905834930284808,
+      "precision": 0.49394155381325733,
+      "recall": 0.9964054636951833,
+      "f1_score": 0.6604717655468192,
+      "custom_score": 0.7784795511009328
+    }
+  },
+  "configuracao": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "scoring_metric": "f1",
+    "optimization_metric": "recall",
+    "balancing_strategy": "smote_tomek",
+    "smote_k_neighbors": 3,
+    "min_samples_per_class": 10,
+    "threshold_tuning": false,
+    "use_ensemble": true,
+    "verbose": false
+  }
+}
