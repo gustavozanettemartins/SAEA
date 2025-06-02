@@ -85,7 +85,7 @@ Sistema autônomo que:
 - **XGBoost/Random Forest** - Modelos de ML
 
 ### Hardware
-- **ESP32 DevKit V1** - Microcontrolador principal
+- **ESP32** - Microcontrolador principal
 - **HC-SR04** - Sensor ultrassônico
 - **LEDs de alta luminosidade** - Sistema visual
 - **Buzzer + Sirene 12V** - Sistema sonoro
@@ -131,7 +131,7 @@ SAEA-Sistema-Alerta-Enchentes/
 ### Pré-requisitos
 
 #### Hardware
-- ESP32 DevKit V1
+- ESP32
 - Sensor HC-SR04
 - LEDs (vermelho, amarelo, laranja, verde)
 - Buzzer + resistores
