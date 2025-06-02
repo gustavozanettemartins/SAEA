@@ -458,7 +458,7 @@ def executar_suite_testes(self):
 |---------|----------|-------------|------------------|
 | Progressiva | 96% | 18h antes | 8% |
 | Súbita | 89% | 2.5h antes | 12% |
-| Normal | N/A | N/A | 3% |
+| Normal | 97% | N/A | 3% |
 
 ### 3.4 Impacto Socioeconômico Estimado
 
