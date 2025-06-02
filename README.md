@@ -151,7 +151,7 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/SAEA-Sistema-Alerta-Enchentes.git
+git clone https://github.com/gustavozanettemartins/SAEA.git
 cd SAEA-Sistema-Alerta-Enchentes
 ```
 
