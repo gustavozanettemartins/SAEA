@@ -805,4 +805,4 @@ FEATURE_MAPPING = {
 
 ---
 
-*Relatório técnico gerado automaticamente pelo sistema SAEA em Junho de 2025.*
+*Relatório técnico gerado pelo sistema SAEA em Junho de 2025.*
