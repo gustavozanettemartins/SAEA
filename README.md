@@ -104,6 +104,7 @@ python src/initial_setup.py
 Para obter os dados históricos do INMET necessários para o treinamento do sistema:
 
 1. Acesse o [Portal do INMET](https://portal.inmet.gov.br/dadoshistoricos)
+2. Ou execute o script download_data.py
 
 
 ## 🚀 Uso Rápido
@@ -132,6 +133,7 @@ python src/simulacao.py --cenario enchente_moderada --duracao 24
 
 ```
 saea/
+├── download_data.py    
 ├── config/             # Arquivos de configuração
 ├── data/              # Dados brutos e processados
 │   ├── raw/          # Dados INMET e hidrológicos
