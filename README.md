@@ -2,7 +2,7 @@
 
 > **Tecnologia que fala a língua da comunidade - seja por luz, som ou rádio FM - salvando vidas onde a modernidade não chega.**
 
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/seu-usuario/SAEA-Sistema-Alerta-Enchentes)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/gustavozanettemartins/SAEA)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-green)](https://www.espressif.com/en/products/socs/esp32)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
