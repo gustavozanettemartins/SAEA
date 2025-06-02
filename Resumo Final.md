@@ -741,7 +741,7 @@ Verdadeiro  0  1230  40
 
 | Cenário | Duração | Alertas Corretos | Falsos Positivos | Tempo Médio Antecipação |
 |---------|---------|------------------|------------------|-------------------------|
-| Normal | 24h | N/A | 2 | N/A |
+| Normal | 24h | 97% (sem enchente) | 3% | N/A |
 | Leve | 18h | 16/18 (89%) | 3 | 4.2h |
 | Moderada | 12h | 11/12 (92%) | 1 | 2.8h |
 | Severa | 8h | 8/8 (100%) | 2 | 1.5h |
