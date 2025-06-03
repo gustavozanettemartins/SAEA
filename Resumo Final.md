@@ -5,10 +5,10 @@
 
 **Integrantes do Projeto:**
 - [Gustavo Zanette Martins]
-- [Nome Completo do Integrante 2]
+- [Michelle Guedes Cavalari]
 
-**Disciplina:** [Nome da Disciplina]  
-**Professor:** [Nome do Professor]  
+**Disciplina:** [Global Solucion]  
+**Professor:** [Leonardo Ruiz Orabona]  
 **Data:** 02 Junho de 2025  
 **Instituição:** FIAP
 
