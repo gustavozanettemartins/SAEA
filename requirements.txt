@@ -33,3 +33,4 @@ ipykernel>=6.0.0
 
 # Configuration
 python-dotenv>=0.19.0
+requests~=2.32.3
