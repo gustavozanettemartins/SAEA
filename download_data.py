@@ -8,7 +8,7 @@ URLs:
 - https://portal.inmet.gov.br/uploads/dadoshistoricos/2024.zip  
 - https://portal.inmet.gov.br/uploads/dadoshistoricos/2023.zip
 
-Autor: Sistema SAEA
+Autores: [Gustavo Zanette Martins, Michelle Guedes Cavalari]
 Data: 2025-06-02
 """
 
